@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://drive.google.com/file/d/1L8e0mWD4BP6_8UsqMQa790M3VMlS9ccU/view?usp=drive_link" width = 250px></picture>
 
 <br>
 
@@ -21,7 +21,7 @@
 - Specialized in analysis skills (data literacy)
 - A passionate Self-taught Full-Stack developer
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/18dRKflXlkYl5Hl9FT49ajKbKtd9VKuSw/view?usp=drive_link)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/18dRKflXlkYl5Hl9FT49ajKbKtd9VKuSw/view?usp=drive_link).
 
 <br>
 
@@ -118,7 +118,7 @@
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/xavi-serrano-salvador-00435826a/)" target="_blank">
+<a href="(https://www.linkedin.com/in/xavi-serrano-salvador-00435826a/)" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Xavi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
