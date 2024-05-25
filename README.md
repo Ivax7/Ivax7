@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Xavi Serrano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Xavi+Serrano+Salvador..&hearts;++;Self-taught+Full-Stack+Developer,;Web+Development+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -17,11 +17,13 @@
 
 <br>
 
+- Graduate in business management
+- Specialized in analysis skills (data literacy)
 - A passionate Self-taught Full-Stack developer
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/18dRKflXlkYl5Hl9FT49ajKbKtd9VKuSw/view?usp=drive_link))
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/18dRKflXlkYl5Hl9FT49ajKbKtd9VKuSw/view?usp=drive_link)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -46,12 +48,14 @@
 <br>
 
 - **Back-End Development**:
+  
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br>
 
 - **Data Analytics**:
+  
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
     ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
@@ -83,7 +87,6 @@
 </p>
 
 <br>
-<br>
 
 -----
 
@@ -104,11 +107,8 @@
 
 <br>
 <br>
-<br>
-
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -136,13 +136,4 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
----
 <br>
