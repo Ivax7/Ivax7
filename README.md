@@ -21,7 +21,7 @@
 - Specialized in analysis skills (data literacy)
 - A passionate Self-taught Full-Stack developer
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/18dRKflXlkYl5Hl9FT49ajKbKtd9VKuSw/view?usp=drive_link).
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/18dRKflXlkYl5Hl9FT49ajKbKtd9VKuSw/view?usp=drive_link)
 
 <br>
 
