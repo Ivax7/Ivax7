@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://drive.google.com/file/d/1L8e0mWD4BP6_8UsqMQa790M3VMlS9ccU/view?usp=drive_link" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtrMHlmNW5mYWcxMXhzdmN6cDliMDhocWh1MXAyajh1Y3RvcXpsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height = 200px></picture>
 
 <br>
 
@@ -107,8 +107,6 @@
 
 <br>
 <br>
------
-
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -118,7 +116,7 @@
 <ul>
 
 <li>
-<a href="(https://www.linkedin.com/in/xavi-serrano-salvador-00435826a/)" target="_blank">
+<a href="https://www.linkedin.com/in/xavi-serrano-salvador-00435826a/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Xavi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
