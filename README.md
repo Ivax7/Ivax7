@@ -52,6 +52,21 @@
 ## <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width ="25"><b> Projects </b>
 <br>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="URL_DE_LA_IMAGEN_1" alt="Proyecto 1" width="200" height="120"/><br/>
+      <strong>Proyecto 1</strong><br/>
+      <a href="https://github.com/Ivax7/pwa-poke-api" target="_blank">
+        <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+      </a>
+      <a href="https://ephemeral-syrniki-1ac912.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Demo-00bfff?style=for-the-badge" alt="Demo"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
