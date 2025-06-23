@@ -55,17 +55,22 @@
 <table>
   <tr>
     <td align="center">
-      <img src="URL_DE_LA_IMAGEN_1" alt="Proyecto 1" width="200" height="120"/><br/>
-      <strong>Proyecto 1</strong><br/>
+      <img src="images/imagenPortada.png" alt="Proyecto 1" width="400" height="240"/><br/>
+      <strong>PokeAPI PWA</strong><br/>
       <a href="https://github.com/Ivax7/pwa-poke-api" target="_blank">
         <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
       </a>
       <a href="https://ephemeral-syrniki-1ac912.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Demo-00bfff?style=for-the-badge" alt="Demo"/>
       </a>
+      <br/><br/>
+      <strong>Tecnologias</strong><br/>
+      <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
     </td>
-  </tr>
+  </tr> 
 </table>
+
 
 
 
